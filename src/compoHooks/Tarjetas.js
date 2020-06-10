@@ -3,14 +3,14 @@ import React, { useState, useEffect, useCallback, useContext } from "react";
 import * as firebase from "firebase";
 import Minombre from "./Minombre";
 var firebaseConfig = {
-  apiKey: "AIzaSyDsAaXyJri60ZrE7vEm90UMaSsTcvGz_aI",
-  authDomain: "my-publicidad-3d983.firebaseapp.com",
-  databaseURL: "https://my-publicidad-3d983.firebaseio.com",
+  apiKey: "AIzaSyDsAaXyJri6xxxxx90UMaSsTcvGz_aI",
+  authDomain: "my-publicidad-3xxxxbaseapp.com",
+  databaseURL: "https://my-publicidadxxx.firebaseio.com",
   projectId: "my-publicidad-3d983",
-  storageBucket: "my-publicidad-3d983.appspot.com",
-  messagingSenderId: "1030310043577",
-  appId: "1:1030310043577:web:134beecb7d3f3f1972e068",
-  measurementId: "G-4Y1GTXBSJ9",
+  storageBucket: "my-publicidxxxxxppspot.com",
+  messagingSenderId: "10303x77",
+  appId: "1:1030310043577:web:134xxx3f3f1972e068",
+  measurementId: "G-4Y1xxxx9",
 };
 // Initialize Firebase
 /*this.state = { nombre: "", direccion: "", rubro: "", imagen: "" };*/
