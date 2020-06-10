@@ -6,6 +6,7 @@ function UnirString() {
   return (
     <div>
       <p>{unir}</p>
+
       <button onClick={() => setUnir(unir + unir)}>String</button>
     </div>
   );
